@@ -69,7 +69,7 @@ class SignSacker(QMainWindow):
         layout.addWidget(self.output_label)
         self.output_label = QLabel("3.优化了报错响应信息。", self)
         layout.addWidget(self.output_label)
-        self.output_label = QLabel("4.github开源地址:https://github.com/YuanMeng-RGB/Software_attribute_replicator。", self)
+        self.output_label = QLabel("4.github开源地址:https://github.com/yuanmeng-MINGI/Software_attribute_replicator。", self)
         layout.addWidget(self.output_label)
         self.output_label = QLabel("------------------------------------------------------------------------------------", self)
         layout.addWidget(self.output_label)
